@@ -1,0 +1,288 @@
+{
+  "tag": {
+    "title": "相關食譜",
+    "type": "tag_related_recipe",
+    "content": [
+      {
+        "keyword": "麻婆豆腐",
+        "link": "/search?q=奶麻婆豆腐"
+      },
+      {
+        "keyword": "涼拌豆腐",
+        "link": "/search?q=家涼拌豆腐"
+      },
+      {
+        "keyword": "紅燒豆腐",
+        "link": "/search?q=雞紅燒豆腐"
+      },
+      {
+        "keyword": "煎豆腐",
+        "link": "/search?q=煎豆腐"
+      },
+      {
+        "keyword": "油豆腐",
+        "link": "/search?q=油豆腐"
+      },
+      {
+        "keyword": "板豆腐",
+        "link": "/search?q=板豆腐"
+      },
+      {
+        "keyword": "雞蛋豆腐",
+        "link": "/search?q=麻雞蛋豆腐"
+      },
+      {
+        "keyword": "嫩豆腐",
+        "link": "/search?q=嫩豆腐"
+      },
+      {
+        "keyword": "金沙豆腐",
+        "link": "/search?q=櫛金沙豆腐"
+      },
+      {
+        "keyword": "老皮嫩肉",
+        "link": "/search?q=豆老皮嫩肉"
+      }
+    ]
+  },
+  "recipes": {
+    "total": 9366,
+    "page": 1,
+    "pageSize": 18,
+    "content": [
+      {
+        "id": 449732,
+        "link": "/recipes/449732",
+        "description": "豆腐與橙汁的完美搭配，口感柔軟中帶點酸甜，讓你一試難忘。搭配清新的香菜提味，這道橙汁豆腐絕對是素食者的最愛。",
+        "name": "橙汁豆腐",
+        "author": "美味生活廚房",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 橙汁, 香菜",
+        "likes": 10
+      },
+      {
+        "id": 449733,
+        "link": "/recipes/449733",
+        "description": "特製辣味醬汁滑過炸豆腐，香辣的口感帶來無限食慾。這道辣味炸豆腐適合喜歡挑戰辛辣口味的你，絕對是一道下飯好菜。",
+        "name": "辣味炸豆腐",
+        "author": "味覺冒險家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 辣味醬汁",
+        "likes": 10
+      },
+      {
+        "id": 449734,
+        "link": "/recipes/449734",
+        "description": "清爽的酸奶油搭配炸豆腐，帶有微酸的口感讓你回味無窮。這道酸奶油炸豆腐簡單又美味，適合夏天享用。",
+        "name": "酸奶油炸豆腐",
+        "author": "健康美食家",
+        "image": "https://source.unsplash.com/800x600/?tofu-RiM3eDg",
+        "ingredients": "豆腐, 酸奶油",
+        "likes": 10
+      },
+      {
+        "id": 449735,
+        "link": "/recipes/449735",
+        "description": "椰奶香氣與炸豆腐的絕妙組合，濃郁的椰奶味道讓這道菜色香味俱佳。一試成主顧，你一定會愛上這款椰香炸豆腐。",
+        "name": "椰香炸豆腐",
+        "author": "珍香美食屋",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 椰奶",
+        "likes": 10
+      },
+      {
+        "id": 449736,
+        "link": "/recipes/449736",
+        "description": "新鮮的蕃茄搭配炸豆腐，酸酸甜甜的口感令人陶醉。這道蕃茄炸豆腐適合喜歡清爽口味的你，絕對是夏日的最佳選擇。",
+        "name": "蕃茄炸豆腐",
+        "author": "食在好時光",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 新鮮的蕃茄",
+        "likes": 10
+      },
+      {
+        "id": 449737,
+        "link": "/recipes/449737",
+        "description": "香脆的杏仁片包覆著炸豆腐，帶來層次豐富的口感。這道杏仁炸豆腐不僅好吃，還有豐富的營養，是健康美食的首選。",
+        "name": "杏仁炸豆腐",
+        "author": "營養大師",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 杏仁片",
+        "likes": 10
+      },
+      {
+        "id": 449738,
+        "link": "/recipes/449738",
+        "description": "芝麻香氣與炸豆腐的完美搭配，濃郁的芝麻風味令人難以抗拒。這道芝麻炸豆腐簡單易做，是下班後快速料理的好選擇。",
+        "name": "芝麻炸豆腐",
+        "author": "忙碌上班族",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 芝麻",
+        "likes": 10
+      },
+      {
+        "id": 449739,
+        "link": "/recipes/449739",
+        "description": "蒜香四溢的炸豆腐，讓你一嚐難忘。這道蒜香炸豆腐適合喜歡濃厚口味的你，絕對是下酒的最佳點心。",
+        "name": "蒜香炸豆腐",
+        "author": "美食品鑑家",
+        "image": "https://source.unsplash.com/800x600/?tofu-JyI",
+        "ingredients": "豆腐, 蒜",
+        "likes": 10
+      },
+      {
+        "id": 449740,
+        "link": "/recipes/449740",
+        "description": "黑胡椒的獨特風味與炸豆腐的結合，帶來意想不到的驚喜。這道黑胡椒炸豆腐適合喜歡大膽口味的你，是味蕾的一場冒險。",
+        "name": "黑胡椒炸豆腐",
+        "author": "美味探險家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 黑胡椒",
+        "likes": 10
+      },
+      {
+        "id": 449741,
+        "link": "/recipes/449741",
+        "description": "香脆的花生醬外皮包覆著炸豆腐，帶有濃郁的花生香氣。這道花生醬炸豆腐不僅美味，還能滿足你對花生風味的渴望。",
+        "name": "花生醬炸豆腐",
+        "author": "味蕾享樂家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 花生醬",
+        "likes": 10
+      },
+      {
+        "id": 449742,
+        "link": "/recipes/449742",
+        "description": "濃郁的咖哩香氣與炸豆腐的完美融合，帶來獨特的風味饗宴。這道咖哩炸豆腐適合喜歡異國風味的你，是一場口味的冒險之旅。",
+        "name": "咖哩炸豆腐",
+        "author": "國際美食探索家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 咖哩粉",
+        "likes": 10
+      },
+      {
+        "id": 449743,
+        "link": "/recipes/449743",
+        "description": "蘑菇醬的濃郁與炸豆腐的鮮嫩交融，味道十分獨特。這道蘑菇醬炸豆腐不僅美味，還帶有濃郁的素食風味。",
+        "name": "蘑菇醬炸豆腐",
+        "author": "素食美食家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 蘑菇醬",
+        "likes": 10
+      },
+      {
+        "id": 449744,
+        "link": "/recipes/449744",
+        "description": "橄欖香氣與炸豆腐的奇妙結合，帶來地中海風味的美味。這道橄欖炸豆腐適合喜歡異國風味的你，是一場口味的冒險之旅。",
+        "name": "橄欖炸豆腐",
+        "author": "地中海美食冒險家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 橄欖",
+        "likes": 10
+      },
+      {
+        "id": 449745,
+        "link": "/recipes/449745",
+        "description": "蔬菜醬的清新與炸豆腐的鮮嫩完美搭配，簡單卻美味。這道蔬菜醬炸豆腐適合喜歡素食風味的你，是一道營養豐富的料理。",
+        "name": "蔬菜醬炸豆腐",
+        "author": "健康素食家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 蔬菜醬",
+        "likes": 10
+      },
+      {
+        "id": 449746,
+        "link": "/recipes/449746",
+        "description": "柚子香氣與炸豆腐的絕妙搭配，帶來清新的口感。這道柚子炸豆腐適合喜歡淡雅風味的你，是夏日的最佳選擇。",
+        "name": "柚子炸豆腐",
+        "author": "夏日清爽廚房",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 柚子",
+        "likes": 10
+      },
+      {
+        "id": 449747,
+        "link": "/recipes/449747",
+        "description": "蘋果醋的酸甜與炸豆腐的香脆交織，帶來一種獨特的口感。這道蘋果醋炸豆腐適合喜歡不同風味的你，是味覺的一場冒險。",
+        "name": "蘋果醋炸豆腐",
+        "author": "創意廚藝家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 蘋果醋",
+        "likes": 10
+      },
+      {
+        "id": 449748,
+        "link": "/recipes/449748",
+        "description": "濃郁的起司香氣包覆著炸豆腐，帶有迷人的奶香。這道起司炸豆腐適合喜歡濃郁口味的你，是一道讓人愛不釋手的美味。",
+        "name": "起司炸豆腐",
+        "author": "奶香美食探索家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 起司",
+        "likes": 10
+      },
+      {
+        "id": 449749,
+        "link": "/recipes/449749",
+        "description": "甜蜜的蜜糖與炸豆腐的香脆交融，帶來一種獨特的甜美口感。這道蜜糖炸豆腐適合喜歡甜品口味的你，是下午茶的絕佳選擇。",
+        "name": "蜜糖炸豆腐",
+        "author": "甜點探索家",
+        "image": "https://source.unsplash.com/800x600/?tofu",
+        "ingredients": "豆腐, 蜜糖",
+        "likes": 10
+      }
+    ]
+  },
+  "faq": {
+    "name": "豆腐",
+    "description": "豆腐是一種以黃豆為主要原料的黃白色塊狀豆製品食物，是大家家中餐桌常見的經典菜色。不管是要涼拌，還是煎、炸、紅燒、清蒸都相當合適，且飽含豐富的蛋白質，是營養又方便取得的食材！",
+    "questions": [
+      {
+        "question": "為什麼豆腐怎麼煮都沒味道？",
+        "answer": "<p>使用鹽巴去水</p>\n<ul>\n<li>浸泡鹽水</li>\n<li>塗抹鹽巴</li>\n<li>鹽水汆燙</li>\n</ul>\n<p>將豆腐冷凍：豆腐內部會產生許多孔洞，這些孔洞能幫助吸收醬汁，快速入味</p>\n<p>二次烹調：可以先煎、炸過，外皮會更容易吸汁入味。</p>\n<p><a href=\"https://blog.icook.tw/posts/135743\" rel=\"noopener\">豆腐怎麼煮都沒味道？</a></p>\n<p><strong></strong></p>"
+      },
+      {
+        "name": "豆腐料理：煎豆腐如何不破皮？",
+        "answer": "<p>1. 熱鍋、熱油後才下鍋煎煮</p>\n<p>2. 豆腐成金黃色可滑動再翻面</p>\n<p>3. 翻面用較平滑的鍋鏟</p>\n<p><a href=\"/posts/133708\" rel=\"noopener\">煎豆腐沾鍋、煎破皮、碎掉？</a></p>"
+      },
+      {
+        "name": "板豆腐是什麼？",
+        "answer": "<p>屬於傳統豆腐，製作豆腐時，使用<strong>食用石膏（硫酸鈣）</strong>作為凝固劑。板豆腐的口感較扎實，在製作豆腐時，使用<strong>加壓壓製豆腐擠出部分多餘的水分，板豆腐的含水量相較於嫩豆腐稍為少些。</strong>板豆腐使用食用石膏硫酸鈣製作，因此豆腐的鈣含量較嫩豆腐多。常被當火鍋料食材使用</p>\n<p><a href=\"https://blog.icook.tw/posts/126142\" rel=\"noopener\">板豆腐、嫩豆腐為什麼口感不同？</a></p>"
+      }
+    ]
+  },
+  "trendingToday": {
+    "type": "today_topic",
+    "title": "今日話題",
+    "link": "/recipes/select",
+    "content": [
+      {
+        "id": 12345,
+        "image": "https://source.unsplash.com/800x600/?food",
+        "link": "/recipes/12345",
+        "name": "香煎雞腿排",
+        "author": "美味廚房小主"
+      },
+      {
+        "id": 12346,
+        "image": "https://source.unsplash.com/800x600/?cooking",
+        "link": "/recipes/67890",
+        "name": "奶油蒜蓉蝦",
+        "author": "廚藝達人"
+      },
+      {
+        "id": 12347,
+        "image": "https://source.unsplash.com/800x600/?dinner",
+        "link": "/recipes/34567",
+        "name": "蔬菜炒麵",
+        "author": "素食之樂"
+      },
+      {
+        "id": 12348,
+        "image": "https://source.unsplash.com/800x600/?meal",
+        "link": "/recipes/89012",
+        "name": "紅燒牛肉麵",
+        "author": "牛肉麵達人"
+      }
+    ]
+  }
+}

@@ -1,20 +1,27 @@
-import type { Config } from 'tailwindcss'
+import { BRAND_COLORS, SCREEN_BREAKPOINTS, NEUTRAL_COLORS } from "./src/theme";
 
-const config: Config = {
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  darkMode: ["class"],
   content: [
-    './pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './components/**/*.{js,ts,jsx,tsx,mdx}',
-    './app/**/*.{js,ts,jsx,tsx,mdx}',
+    "./pages/**/*.{ts,tsx}",
+    "./components/**/*.{ts,tsx}",
+    "./app/**/*.{ts,tsx}",
+    "./src/**/*.{ts,tsx}",
   ],
   theme: {
+    screens: SCREEN_BREAKPOINTS,
+    container: {
+      center: true,
+      padding: "2rem",
+      screens: SCREEN_BREAKPOINTS,
+    },
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+      colors: {
+        brand: BRAND_COLORS,
+        neutral: NEUTRAL_COLORS,
       },
     },
   },
-  plugins: [],
-}
-export default config
+  plugins: [require("tailwindcss-animate")],
+};

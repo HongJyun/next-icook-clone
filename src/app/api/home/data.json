@@ -1,0 +1,278 @@
+{
+  "tag": {
+    "title": "熱搜關鍵字",
+    "type": "tag_story",
+    "content": [
+      {
+        "keyword": "奶油大蒜醬",
+        "link": "/search?q=奶油大蒜醬"
+      },
+      {
+        "keyword": "家常菜",
+        "link": "/search?q=家常菜"
+      },
+      {
+        "keyword": "雞湯",
+        "link": "/search?q=雞湯"
+      },
+      {
+        "keyword": "雞胸肉",
+        "link": "/search?q=雞胸肉"
+      },
+      {
+        "keyword": "滷肉",
+        "link": "/search?q=滷肉"
+      },
+      {
+        "keyword": "蒸蛋",
+        "link": "/search?q=蒸蛋"
+      },
+      {
+        "keyword": "麻油雞",
+        "link": "/search?q=麻油雞"
+      },
+      {
+        "keyword": "高麗菜",
+        "link": "/search?q=高麗菜"
+      },
+      {
+        "keyword": "櫛瓜",
+        "link": "/search?q=櫛瓜"
+      },
+      {
+        "keyword": "豆腐",
+        "link": "/search?q=豆腐"
+      }
+    ]
+  },
+  "hero": {
+    "type": "hero_story",
+    "major": {
+      "id": 34973,
+      "title": "如何挑選新鮮雞肉？教你快速從外觀、產地判斷！",
+      "subtitle": "編輯精選",
+      "image": "https://source.unsplash.com/800x600/?fresh-chicken",
+      "link": "/recipes/214083",
+      "position": 1
+    },
+    "minor": [
+      {
+        "id": 34974,
+        "title": "麵包店分享簡單的「酥皮菠蘿吐司」食譜！使用吐司、奶油、砂糖共3種材料",
+        "subtitle": "料理小撇步",
+        "image": "https://source.unsplash.com/800x600/?bread",
+        "link": "/recipes/214493",
+        "position": 2
+      },
+      {
+        "id": 34975,
+        "title": "今晚吃什麼？就煮這3道！",
+        "subtitle": "一週菜單 11/23 星期四",
+        "image": "https://source.unsplash.com/800x600/?dinner",
+        "link": "/recipes/213673",
+        "position": 3
+      }
+    ]
+  },
+  "campaign": {
+    "title": "活動",
+    "link": "/campaigns",
+    "type": "selection_story",
+    "content": [
+      {
+        "id": 455,
+        "title": "精彩60國產雞 大雞大利嘉年華",
+        "subtitle": "精彩60國產雞大雞大利嘉年華好康快報名",
+        "image": "https://source.unsplash.com/800x600/?chicken",
+        "active": true,
+        "time": "2023/12/03",
+        "link": "/"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "type": "selection_story",
+      "title": "獨特口味的家常美食！",
+      "link": "/categories/209",
+      "content": [
+        {
+          "id": 12345,
+          "image": "https://source.unsplash.com/800x600/?food",
+          "link": "/recipes/12345",
+          "name": "香煎雞腿排",
+          "author": "美味廚房小主"
+        },
+        {
+          "id": 12346,
+          "image": "https://source.unsplash.com/800x600/?cooking",
+          "link": "/recipes/67890",
+          "name": "奶油蒜蓉蝦",
+          "author": "廚藝達人"
+        },
+        {
+          "id": 12347,
+          "image": "https://source.unsplash.com/800x600/?dinner",
+          "link": "/recipes/34567",
+          "name": "蔬菜炒麵",
+          "author": "素食之樂"
+        },
+        {
+          "id": 12348,
+          "image": "https://source.unsplash.com/800x600/?meal",
+          "link": "/recipes/89012",
+          "name": "紅燒牛肉麵",
+          "author": "牛肉麵達人"
+        }
+      ]
+    },
+    {
+      "type": "selection_story",
+      "title": "簡單又美味的家常料理！",
+      "link": "/categories/209",
+      "content": [
+        {
+          "id": 23456,
+          "image": "https://source.unsplash.com/800x600/?breakfast",
+          "link": "/recipes/23456",
+          "name": "法式吐司",
+          "author": "早餐達人"
+        },
+        {
+          "id": 23457,
+          "image": "https://source.unsplash.com/800x600/?soup",
+          "link": "/recipes/78901",
+          "name": "南瓜濃湯",
+          "author": "湯匙掌門人"
+        },
+        {
+          "id": 23458,
+          "image": "https://source.unsplash.com/800x600/?lunch",
+          "link": "/recipes/45678",
+          "name": "三杯雞",
+          "author": "家常美食家"
+        },
+        {
+          "id": 23459,
+          "image": "https://source.unsplash.com/800x600/?dinner",
+          "link": "/recipes/90123",
+          "name": "咖哩飯",
+          "author": "香料大師"
+        }
+      ]
+    },
+    {
+      "type": "list_story",
+      "title": "最新生活誌文章",
+      "link": "/blog",
+      "content": [
+        {
+          "id": 34567,
+          "title": "迎新年送美味！特製蛋黃酥禮盒，限量12/5開搶",
+          "image": "https://source.unsplash.com/800x600/?new-year",
+          "link": "/recipes/34567"
+        },
+        {
+          "id": 34568,
+          "title": "快速美味！5分鐘完成的蒜香椒鹽金針菇",
+          "image": "https://source.unsplash.com/800x600/?quick-cooking",
+          "link": "/recipes/34568"
+        },
+        {
+          "id": 34569,
+          "title": "醋的種類大解密：釀造醋、調理醋、合成醋差別大揭露",
+          "image": "https://source.unsplash.com/800x600/?vinegar",
+          "link": "/recipes/34569"
+        },
+        {
+          "id": 34570,
+          "title": "夜市小吃變身壽司！爭鮮「台味祭」推出18款創意台味壽司",
+          "image": "https://source.unsplash.com/800x600/?sushi",
+          "link": "/recipes/34570"
+        },
+        {
+          "id": 34571,
+          "title": "臺北再度躍升國際舞台！中山區入選《Time Out》全球最酷40街區",
+          "image": "https://source.unsplash.com/800x600/?city",
+          "link": "/recipes/34571"
+        },
+        {
+          "id": 34572,
+          "title": "自家烘焙「酥皮菠蘿吐司」，三種材料搞定美味早餐",
+          "image": "https://source.unsplash.com/800x600/?bread",
+          "link": "/recipes/34572"
+        }
+      ]
+    },
+    {
+      "type": "selection_story",
+      "title": "獨特口味的日常美食！",
+      "link": "/categories/209",
+      "content": [
+        {
+          "id": 23456,
+          "image": "https://source.unsplash.com/800x600/?grilled-chicken",
+          "link": "/recipes/23456",
+          "name": "炭烤香辣雞腿",
+          "author": "烤肉達人"
+        },
+        {
+          "id": 23457,
+          "image": "https://source.unsplash.com/800x600/?shrimp",
+          "link": "/recipes/78901",
+          "name": "香濃蒜蓉蝦羹",
+          "author": "海鮮烹飪家"
+        },
+        {
+          "id": 23458,
+          "image": "https://source.unsplash.com/800x600/?stir-fry",
+          "link": "/recipes/45678",
+          "name": "花式蔬菜炒麵",
+          "author": "素食大師"
+        },
+        {
+          "id": 23459,
+          "image": "https://source.unsplash.com/800x600/?beef-noodle",
+          "link": "/recipes/90123",
+          "name": "香濃紅燒牛肉麵",
+          "author": "牛肉麵烹飪家"
+        }
+      ]
+    },
+    {
+      "type": "selection_story",
+      "title": "家常美味，好吃不膩！",
+      "link": "/categories/209",
+      "content": [
+        {
+          "id": 34567,
+          "image": "https://source.unsplash.com/800x600/?pasta",
+          "link": "/recipes/34567",
+          "name": "義式番茄鮮蝦麵",
+          "author": "義大利廚房"
+        },
+        {
+          "id": 34568,
+          "image": "https://source.unsplash.com/800x600/?sushi",
+          "link": "/recipes/34568",
+          "name": "手握壽司寶盒",
+          "author": "壽司達人"
+        },
+        {
+          "id": 34569,
+          "image": "https://source.unsplash.com/800x600/?salad",
+          "link": "/recipes/34569",
+          "name": "橙香焗烤雞沙拉",
+          "author": "健康生活家"
+        },
+        {
+          "id": 34570,
+          "image": "https://source.unsplash.com/800x600/?curry",
+          "link": "/recipes/34570",
+          "name": "咖哩嫩牛腩",
+          "author": "咖哩魔法師"
+        }
+      ]
+    }
+  ]
+}

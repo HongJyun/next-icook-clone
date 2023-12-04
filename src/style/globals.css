@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-size: 10px;
+  line-height: 1.15;
+}
+
+body {
+  font-size: 14px;
+  letter-spacing: 0.06em;
+  background: #efede8;
+}
+
+.section-divider {
+  @apply relative mb-[16px] after:absolute after:left-1/2 after:bottom-0 after:block after:content-[''] after:bg-brand-base after:h-[16px] after:w-screen after:transform after:-translate-x-1/2 after:translate-y-full;
+}
+
+@screen lg {
+  .section-divider {
+    @apply pb-0 after:content-none;
+  }
+}

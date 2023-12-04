@@ -1,0 +1,68 @@
+{
+  "name": "家常豆腐",
+  "image": "https://source.unsplash.com/800x600/?tofu",
+  "author": {
+    "name": "菜館食客",
+    "url": "#",
+    "recipes": 55,
+    "followers": 316,
+    "bio": "一名菜館食客，熱愛美食的菜館老闆。",
+    "image": "https://source.unsplash.com/150x150/?avatar"
+  },
+  "datePublished": "2023-10-18T19:51:47+08:00",
+  "dateModified": "2023-12-03T16:03:05+08:00",
+  "description": "一道簡單的家常菜，以板豆腐為主要材料，配以豬肉絲、蔥、薑、豆豉等其他食材，很下飯。使用砂鍋上菜，豆腐在燒熱的砂鍋裡滋滋作響，很有熱炒店的氣氛。 【關鍵字】：豆腐、豬肉絲、豆豉、板豆腐、砂鍋、紅辣椒、湯汁",
+  "keywords": ["豆腐", "豬肉絲", "豆豉", "板豆腐", "砂鍋", "紅辣椒", "湯汁"],
+  "servings": 2,
+  "totalTime": 30,
+  "recipeIngredient": [
+    { "type": "raw_food", "name": "板豆腐", "amount": "1塊" },
+    { "type": "raw_food", "name": "豬肉絲", "amount": "100克" },
+    { "type": "seasoning", "name": "蠔油", "amount": "2大匙" },
+    { "type": "raw_food", "name": "蔥", "amount": "1根" },
+    { "type": "seasoning", "name": "米酒", "amount": "1大匙" },
+    { "type": "raw_food", "name": "紅辣椒", "amount": "1根" },
+    { "type": "seasoning", "name": "糖", "amount": "1小匙" },
+    { "type": "raw_food", "name": "薑", "amount": "2片" },
+    { "type": "seasoning", "name": "麻油", "amount": "少許" },
+    { "type": "raw_food", "name": "乾豆豉", "amount": "1大匙" }
+  ],
+  "recipeInstructions": [
+    {
+      "text": "蔥切段，分開蔥白跟蔥綠。薑切片。紅辣椒去籽切斜段。豆豉粗略切碎。",
+      "image": "https://source.unsplash.com/800x600/?tofu"
+    },
+    {
+      "text": "板豆腐先切1公分寬的厚片，再切成三角形片（圖中虛線所示）。",
+      "image": "https://source.unsplash.com/800x600/?tofu"
+    },
+    {
+      "text": "平底鍋熱少許油將豆腐煎至兩面金黃後盛起備用。\n這個步驟需要一點耐性，中火慢慢煎，每面5～7分鐘。一開始豆腐會出水，煎個3分鐘左右，水份開始蒸發，豆腐就會慢慢開始上色。原則上第二面所需的時間會比第一面少一點。",
+      "image": "https://source.unsplash.com/800x600/?tofu"
+    },
+    {
+      "text": "同鍋補少許油，放入豬肉絲炒熟。",
+      "image": "https://source.unsplash.com/800x600/?tofu"
+    },
+    {
+      "text": "將炒熟的豬肉絲推到一邊，用空出來的地方爆香蔥白、豆豉跟薑片。",
+      "image": "https://source.unsplash.com/800x600/?tofu"
+    },
+    {
+      "text": "加調味料（蠔油、米酒、糖）炒勻後，加1杯水煮滾。",
+      "image": "https://source.unsplash.com/800x600/?tofu"
+    },
+    {
+      "text": "加入步驟（3）的豆腐，中小火煮5分鐘，讓豆腐吸收湯汁。途中可以翻個面，確保兩面都吸到湯汁。\n大部分的湯汁會被豆腐吸收，鍋裡最後剩下的湯汁不多，所以不需要勾芡。",
+      "image": "https://source.unsplash.com/800x600/?tofu"
+    },
+    {
+      "text": "加入蔥綠跟紅辣椒，稍微拌炒，淋少許麻油即可熄火。",
+      "image": "https://source.unsplash.com/800x600/?tofu"
+    },
+    {
+      "text": "燒熱砂鍋，將煮好的豆腐倒進去，在家也能享受熱炒店的氣氛😀",
+      "image": "https://source.unsplash.com/800x600/?tofu"
+    }
+  ]
+}
