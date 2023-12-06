@@ -1,5 +1,5 @@
 "use client";
-import { KeywordContent } from "@/app/api/home/route";
+import { KeywordContent } from "@/types";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
 import Link from "next/link";
