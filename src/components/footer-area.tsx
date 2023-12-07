@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export const FooterArea = () => {
   return (
-    <footer className="p-[40px] flex flex-col items-center justify-center w-full bg-white border-t border-t-[#e2e0db] ">
+    <footer className="mt-[40px] p-[40px] flex flex-col items-center justify-center w-full bg-white border-t border-t-[#e2e0db] ">
       <div className="container">
         <div className="mb-[40px] grid auto-cols-auto grid-flow-col gap-[32px] w-full">
           <div>

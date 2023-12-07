@@ -1,28 +1,37 @@
 "use client";
-import { KeywordContent } from "@/types";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { getHomeData } from "@/api";
+import { Tag } from "@/types";
 
-export const SearchBar = ({
-  keywords = [],
-}: {
-  keywords: KeywordContent[];
-}) => {
+export const dynamic = 'force-dynamic'
+export const SearchBar = () => {
   const router = useRouter();
 
+  const [tag, setTag] = useState<Tag>();
   const [form, setForm] = useState({
     searchType: "recipes",
     q: "",
     ingredients: "",
   });
 
+  useEffect(() => {
+    const fetchData = async()=>{
+      const data = await getHomeData();
+      const { tag } = data;
+      setTag(tag)
+    }
+  fetchData
+  },[])
+
   const canSubmit =
     form.searchType === "recipes"
       ? form.q.length || form.ingredients.length
       : form.q.length;
+
   const onSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     const ingredients = form.ingredients.trim().replaceAll(" ", ",");
@@ -111,7 +120,7 @@ export const SearchBar = ({
       <div className="mt-[8px] flex whitespace-nowrap">
         熱搜：
         <ul className="flex gap-[8px] flex-wrap">
-          {keywords.map((item) => (
+          {tag?.content.map((item) => (
             <li key={item.keyword}>
               <Link href={item.link}>{item.keyword}</Link>
             </li>

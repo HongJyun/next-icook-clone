@@ -6,6 +6,7 @@ import { PostCard } from "@/components/post-card";
 import { CampaignPostCard } from "@/components/campaign-post-card";
 import { getHomeData } from "@/api";
 
+export const dynamic = 'force-dynamic'
 export default async function Home({}) {
   const data = await getHomeData();
   const { hero, stories, campaign } = data;

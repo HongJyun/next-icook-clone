@@ -1,10 +1,10 @@
-import { GET, HomeData } from "@/app/api/home/route";
+import { HomeData } from "@/app/api/home/route";
 import { SearchResultData } from "@/app/api/search/route";
 import { RecipeDetail } from "@/types";
 
 export const baseUrl = process.env.API_BASE_URL;
 export const getHomeData = async (): Promise<HomeData> => {
-  const res = GET();
+  const res = await fetch(`${baseUrl}/api/home`);
   return res.json();
 };
 

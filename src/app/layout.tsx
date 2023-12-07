@@ -3,7 +3,6 @@ import "@/style/globals.css";
 import { NavBar } from "@/components/navbar";
 import { CategoryBar } from "@/components/category-bar";
 import { SearchBar } from "@/components/search-bar";
-import { getHomeData } from "@/api";
 import { FooterArea } from "@/components/footer-area";
 
 export const metadata: Metadata = {
@@ -16,15 +15,12 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const data = await getHomeData();
-  const { tag } = data;
-
   return (
     <html lang="zh-TW">
       <body className="md:bg-brand-base">
         <NavBar></NavBar>
         <CategoryBar></CategoryBar>
-        <SearchBar keywords={tag.content}></SearchBar>
+        <SearchBar></SearchBar>
         {children}
         <FooterArea></FooterArea>
       </body>
